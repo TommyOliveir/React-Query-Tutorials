@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## run before yarn start
+
+export NODE_OPTIONS=--openssl-legacy-provider
+
 In the project directory, you can run:
 
 ### `yarn start`
